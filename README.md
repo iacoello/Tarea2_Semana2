@@ -34,6 +34,12 @@
 **1.4 EXPLICACIÓN DE PROCEDIMIENTO**
 1. En un circuito compuesto de una fuente de voltaje y un resistor, describa qué le sucede a la corriente
 cuando
+(a) La corriente se triplica.
+(b) La corriente se reduce al 75%.
+(c) La corriente se reduce a la mitad.
+(d) La corriente se incrementa un 54%.
+(e) La corriente se cuadruplica.
+(f) La corriente no cambia.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
