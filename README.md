@@ -35,6 +35,8 @@
 1. En un circuito compuesto de una fuente de voltaje y un resistor, describa qué le sucede a la corriente
 cuando
 
+<img src="https://latex.codecogs.com/svg.image?\bigl(\begin{smallmatrix}a\end{smallmatrix}\bigr)~El~voltaje~se~triplica\to&space;La~corriente~se~triplica\\~~~~~~\bigl(\begin{smallmatrix}b\end{smallmatrix}\bigr)~El~porcentaje~se~reduce~en~75%\to&space;La~corriente~se~reduce~al~75%\\~~~~~~\bigl(\begin{smallmatrix}c\end{smallmatrix}\bigr)La&space;~resistencia&space;~se&space;~duplica\to&space;La~corriente&space;~se~&space;reduce&space;~a&space;~la~&space;mitad" title="\bigl(\begin{smallmatrix}a\end{smallmatrix}\bigr)~El~voltaje~se~triplica\to La~corriente~se~triplica\\~~~~~~\bigl(\begin{smallmatrix}b\end{smallmatrix}\bigr)~El~porcentaje~se~reduce~en~75%\to La~corriente~se~reduce~al~75%\\~~~~~~\bigl(\begin{smallmatrix}c\end{smallmatrix}\bigr)La ~resistencia ~se ~duplica\to La~corriente ~se~ reduce ~a ~la~ mitad" />
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
