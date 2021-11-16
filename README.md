@@ -61,6 +61,11 @@ R2 y R3
 gris, café, rojo
 ![9](https://user-images.githubusercontent.com/93835587/141882828-880e7df1-7bef-4fee-8622-b559f8832546.jpg)
 
+11. Se mide la corriente en un circuito que opera con una batería de 10 V. El amperímetro lee 50 mA. Más
+tarde, se observa que la corriente cae a 30 mA. Eliminando la posibilidad de un cambio de resistencia,
+debe concluirse que el voltaje ha cambiado. ¿Cuánto ha cambiado el voltaje de la batería y cuál es su
+nuevo valor?
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
