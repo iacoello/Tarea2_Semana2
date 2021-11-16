@@ -79,6 +79,7 @@ nuevo valor?
 
 Determine la corriente en cada caso
 
+<img src="https://latex.codecogs.com/svg.image?\bigl(\begin{smallmatrix}a\end{smallmatrix}\bigr)~I=&space;\frac{V}{R}\\~~~~~~~~~~~I=&space;\frac{5v}{1.0\mho&space;}\\~~~~~~~~~~~I=5~A" title="\bigl(\begin{smallmatrix}a\end{smallmatrix}\bigr)~I= \frac{V}{R}\\~~~~~~~~~~~I= \frac{5v}{1.0\mho }\\~~~~~~~~~~~I=5~A" />
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **1.5 RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
