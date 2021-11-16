@@ -73,6 +73,8 @@ nuevo valor?
 
 13. Trace una gráfica de corriente contra voltaje con valores de voltaje que vayan de 10 a 100 V, en incrementos de 10 V, para cada uno de los siguientes valores de resistencia
 
+<img src="https://latex.codecogs.com/svg.image?a.~1.0\mho&space;~~~b.~5.0\mho~~~c.~20\mho&space;~~~d.~100\mho&space;" title="a.~1.0\mho ~~~b.~5.0\mho~~~c.~20\mho ~~~d.~100\mho " />
+
 ![11](https://user-images.githubusercontent.com/93835587/141886785-12cfd8b4-4d6c-4be3-a388-3b991645352f.jpg)
 
 Determine la corriente en cada caso
