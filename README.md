@@ -59,7 +59,7 @@ R2 y R3
 
 9. Trace la relación corriente-voltaje para un resistor de cinco bandas con código de colores café, verde,
 gris, café, rojo
-![9](https://user-images.githubusercontent.com/93835587/141882613-716c01e4-2792-453f-86a9-7a775f8e39a1.jpeg)
+![9](https://user-images.githubusercontent.com/93835587/141882828-880e7df1-7bef-4fee-8622-b559f8832546.jpg)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
