@@ -79,6 +79,8 @@ nuevo valor?
 
 Determine la corriente en cada caso
 
+![o](https://user-images.githubusercontent.com/93835587/141889772-3f0c022f-d6dc-445d-b0af-5ed8cd909401.jpg)
+
 <img src="https://latex.codecogs.com/svg.image?\bigl(\begin{smallmatrix}a\end{smallmatrix}\bigr)~I=&space;\frac{V}{R}\\~~~~~~~~~~~I=&space;\frac{5v}{1.0\mho&space;}\\~~~~~~~~~~~I=5~A" title="\bigl(\begin{smallmatrix}a\end{smallmatrix}\bigr)~I= \frac{V}{R}\\~~~~~~~~~~~I= \frac{5v}{1.0\mho }\\~~~~~~~~~~~I=5~A" />
 
 <img src="https://latex.codecogs.com/svg.image?\bigl(\begin{smallmatrix}B\end{smallmatrix}\bigr)~I=&space;\frac{V}{R}\\~~~~~~~~~~~I=&space;\frac{15v}{10\mho&space;}\\~~~~~~~~~~~I=1.5~A" title="\bigl(\begin{smallmatrix}B\end{smallmatrix}\bigr)~I= \frac{V}{R}\\~~~~~~~~~~~I= \frac{15v}{10\mho }\\~~~~~~~~~~~I=1.5~A" />
