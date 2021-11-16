@@ -67,7 +67,7 @@ tarde, se observa que la corriente cae a 30 mA. Eliminando la posibilidad de un 
 debe concluirse que el voltaje ha cambiado. ¿Cuánto ha cambiado el voltaje de la batería y cuál es su
 nuevo valor?
 <img src="https://latex.codecogs.com/svg.image?V=&space;10~~~I=&space;50\\~~~~~V=&space;\frac{V}{I}\\~~~~~V=&space;\frac{10}{50}\\~~~~~V=&space;\frac{1}{5}" title="V= 10~~~I= 50\\~~~~~V= \frac{V}{I}\\~~~~~V= \frac{10}{50}\\~~~~~V= \frac{1}{5}" />
-
+<img src="https://latex.codecogs.com/svg.image?V=&space;R\times&space;I\\~~~~~V=&space;\frac{1}{5}\times&space;30\\~~~~~V=&space;6v\\~~~~~&space;El&space;~voltaje~&space;disminuyo~&space;4&space;V\left&space;(&space;de~&space;10&space;~a&space;~6&space;V&space;\right&space;)" title="V= R\times I\\~~~~~V= \frac{1}{5}\times 30\\~~~~~V= 6v\\~~~~~ El ~voltaje~ disminuyo~ 4 V\left ( de~ 10 ~a ~6 V \right )" />
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
