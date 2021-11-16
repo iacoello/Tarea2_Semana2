@@ -48,6 +48,9 @@ V contra I. ¿Es la gráfica una línea recta? ¿Qué indica la gráfica?
 
 7. La figura 3-19 es una gráfica de corriente contra voltaje para tres valores de resistencia. Determine R1,
 R2 y R3
+
+![7](https://user-images.githubusercontent.com/93835587/141879123-6f56540b-a053-40ea-895f-935e07c855cc.jpg)
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
