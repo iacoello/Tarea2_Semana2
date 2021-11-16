@@ -77,7 +77,7 @@ nuevo valor?
 
 ![11](https://user-images.githubusercontent.com/93835587/141886785-12cfd8b4-4d6c-4be3-a388-3b991645352f.jpg)
 
-Determine la corriente en cada caso
+15.Determine la corriente en cada caso
 
 ![o](https://user-images.githubusercontent.com/93835587/141889772-3f0c022f-d6dc-445d-b0af-5ed8cd909401.jpg)
 
@@ -91,15 +91,21 @@ Determine la corriente en cada caso
 
 <img src="https://latex.codecogs.com/svg.image?\bigl(\begin{smallmatrix}e\end{smallmatrix}\bigr)~I=&space;\frac{V}{R}\\~~~~~~~~~~~I=&space;\frac{250v}{5.6M\mho&space;}\\~~~~~~~~~~~I=44.6~uA" title="\bigl(\begin{smallmatrix}e\end{smallmatrix}\bigr)~I= \frac{V}{R}\\~~~~~~~~~~~I= \frac{250v}{5.6M\mho }\\~~~~~~~~~~~I=44.6~uA" />
 
-17. Se conecta un resistor de 10  a través de una batería de 12 V. ¿Cuál es la corriente a través del resistor?
+17.Se conecta un resistor de 10  a través de una batería de 12 V. ¿Cuál es la corriente a través del resistor?
 
-19. Se conecta un resistor de cuatro bandas a través de las terminales de una fuente de 25 V. Determine la
+19.Se conecta un resistor de cuatro bandas a través de las terminales de una fuente de 25 V. Determine la
 corriente del resistor si el código de colores es amarillo, violeta, naranja, plata
 
-21. Si el voltaje del problema 20 se duplica, ¿se fundirá un fusible de 0.5 A? Explique su respuesta.
+21.Si el voltaje del problema 20 se duplica, ¿se fundirá un fusible de 0.5 A? Explique su respuesta.
 
-23. Calcule el voltaje para cada valor de I y R:
+23.Calcule el voltaje para cada valor de I y R:
 
+25.Se leen tres amperes de corriente a través de un resistor de 27  conectado a una fuente de voltaje.
+¿Cuánto voltaje produce la fuente?
+
+27.Se conecta una fuente de 6 V a un resistor de 100  mediante dos tramos de alambre de cobre calibre
+18 de 12 pies de largo. La resistencia total es la resistencia de los dos alambres sumada al resistor de
+100 . Determine lo siguiente
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **1.5 RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
