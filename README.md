@@ -106,13 +106,24 @@ corriente del resistor si el código de colores es amarillo, violeta, naranja, p
 
 23.Calcule el voltaje para cada valor de I y R:
 
+<img src="https://latex.codecogs.com/svg.image?\bigl(\begin{smallmatrix}a\end{smallmatrix}\bigr)V=&space;I\times&space;V\\~~~~~~~~~~V=2\times&space;18\\~~~~~~~~~~V=36v&space;" title="\bigl(\begin{smallmatrix}a\end{smallmatrix}\bigr)V= I\times V\\~~~~~~~~~~V=2\times 18\\~~~~~~~~~~V=36v " />
+
+<img src="https://latex.codecogs.com/svg.image?\bigl(\begin{smallmatrix}b\end{smallmatrix}\bigr)V=&space;I\times&space;V\\~~~~~~~~~~V=5\times&space;56\\~~~~~~~~~~V=280v&space;" title="\bigl(\begin{smallmatrix}b\end{smallmatrix}\bigr)V= I\times V\\~~~~~~~~~~V=5\times 56\\~~~~~~~~~~V=280v " />
+
+<img src="https://latex.codecogs.com/svg.image?\bigl(\begin{smallmatrix}c\end{smallmatrix}\bigr)V=&space;I\times&space;V\\~~~~~~~~~~V=2.5\times&space;680\\~~~~~~~~~~V=1700v&space;" title="\bigl(\begin{smallmatrix}c\end{smallmatrix}\bigr)V= I\times V\\~~~~~~~~~~V=2.5\times 680\\~~~~~~~~~~V=1700v " />
+
+<img src="https://latex.codecogs.com/svg.image?\bigl(\begin{smallmatrix}d\end{smallmatrix}\bigr)V=&space;I\times&space;V\\~~~~~~~~~~V=0.6\times&space;47\\~~~~~~~~~~V=28.2v&space;" title="\bigl(\begin{smallmatrix}d\end{smallmatrix}\bigr)V= I\times V\\~~~~~~~~~~V=0.6\times 47\\~~~~~~~~~~V=28.2v " />
+
+<img src="https://latex.codecogs.com/svg.image?\bigl(\begin{smallmatrix}e\end{smallmatrix}\bigr)V=&space;I\times&space;V\\~~~~~~~~~~V=0.1\times&space;560\\~~~~~~~~~~V=56v&space;" title="\bigl(\begin{smallmatrix}e\end{smallmatrix}\bigr)V= I\times V\\~~~~~~~~~~V=0.1\times 560\\~~~~~~~~~~V=56v " />
+
+
 25.Se leen tres amperes de corriente a través de un resistor de 27  conectado a una fuente de voltaje.
 ¿Cuánto voltaje produce la fuente?
 
 27.Se conecta una fuente de 6 V a un resistor de 100  mediante dos tramos de alambre de cobre calibre
 18 de 12 pies de largo. La resistencia total es la resistencia de los dos alambres sumada al resistor de
-
 100 . Determine lo siguiente
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **1.5 RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
