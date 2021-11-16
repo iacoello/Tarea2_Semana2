@@ -66,6 +66,7 @@ gris, café, rojo
 tarde, se observa que la corriente cae a 30 mA. Eliminando la posibilidad de un cambio de resistencia,
 debe concluirse que el voltaje ha cambiado. ¿Cuánto ha cambiado el voltaje de la batería y cuál es su
 nuevo valor?
+<img src="https://latex.codecogs.com/svg.image?V=&space;10~~~I=&space;50\\~~~~~V=&space;\frac{V}{I}\\~~~~~V=&space;\frac{10}{50}\\~~~~~V=&space;\frac{1}{5}" title="V= 10~~~I= 50\\~~~~~V= \frac{V}{I}\\~~~~~V= \frac{10}{50}\\~~~~~V= \frac{1}{5}" />
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
