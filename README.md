@@ -71,6 +71,7 @@ nuevo valor?
 
 <img src="https://latex.codecogs.com/svg.image?V=&space;R\times&space;I\\~~~~~V=&space;\frac{1}{5}\times&space;30\\~~~~~V=&space;6v\\~~~~~&space;El&space;~voltaje~&space;disminuyo~&space;4&space;V\left&space;(&space;de~&space;10&space;~a&space;~6&space;V&space;\right&space;)" title="V= R\times I\\~~~~~V= \frac{1}{5}\times 30\\~~~~~V= 6v\\~~~~~ El ~voltaje~ disminuyo~ 4 V\left ( de~ 10 ~a ~6 V \right )" />
 
+13. Trace una gráfica de corriente contra voltaje con valores de voltaje que vayan de 10 a 100 V, en incrementos de 10 V, para cada uno de los siguientes valores de resistencia
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
