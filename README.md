@@ -47,6 +47,11 @@ cuando
 el voltaje, en pasos de 10 V, hasta 100 V. Determine la corriente en cada voltaje y trace una gráfica de
 V contra I. ¿Es la gráfica una línea recta? ¿Qué indica la gráfica?
 
+![pl](https://user-images.githubusercontent.com/93835587/141916545-f9fd5100-3ed5-4b58-b4e6-5812565da089.jpg)
+
+Explicacion:La gráfica es una línea recta, lo que indica una relación lineal
+entre V e I.
+
 7.La figura 3-19 es una gráfica de corriente contra voltaje para tres valores de resistencia. Determine R1,
 R2 y R3
 
