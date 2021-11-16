@@ -93,6 +93,8 @@ nuevo valor?
 
 17.Se conecta un resistor de 10  a través de una batería de 12 V. ¿Cuál es la corriente a través del resistor?
 
+<img src="https://latex.codecogs.com/svg.image?\bigl(\begin{smallmatrix}e\end{smallmatrix}\bigr)~I=&space;\frac{V}{R}\\~~~~~~~~~~~I=&space;\frac{12v}{10\mho&space;}\\~~~~~~~~~~~I=1.2~A" title="\bigl(\begin{smallmatrix}e\end{smallmatrix}\bigr)~I= \frac{V}{R}\\~~~~~~~~~~~I= \frac{12v}{10\mho }\\~~~~~~~~~~~I=1.2~A" />
+
 19.Se conecta un resistor de cuatro bandas a través de las terminales de una fuente de 25 V. Determine la
 corriente del resistor si el código de colores es amarillo, violeta, naranja, plata
 
@@ -105,6 +107,7 @@ corriente del resistor si el código de colores es amarillo, violeta, naranja, p
 
 27.Se conecta una fuente de 6 V a un resistor de 100  mediante dos tramos de alambre de cobre calibre
 18 de 12 pies de largo. La resistencia total es la resistencia de los dos alambres sumada al resistor de
+
 100 . Determine lo siguiente
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
