@@ -40,6 +40,8 @@ cuando
 
 3. Enuncie la fórmula utilizada para encontrar V cuando los valores de I y R son conocidos.
 
+<img src="https://latex.codecogs.com/svg.image?V\doteq&space;I\times&space;R" title="V\doteq I\times R" />
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
