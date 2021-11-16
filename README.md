@@ -45,6 +45,9 @@ cuando
 5. Se conecta una fuente de voltaje variable al circuito de la figura 3-18. Comience con 0 V e incremente
 el voltaje, en pasos de 10 V, hasta 100 V. Determine la corriente en cada voltaje y trace una gráfica de
 V contra I. ¿Es la gráfica una línea recta? ¿Qué indica la gráfica?
+
+7. La figura 3-19 es una gráfica de corriente contra voltaje para tres valores de resistencia. Determine R1,
+R2 y R3
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
