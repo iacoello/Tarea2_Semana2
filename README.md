@@ -78,6 +78,7 @@ nuevo valor?
 ![11](https://user-images.githubusercontent.com/93835587/141886785-12cfd8b4-4d6c-4be3-a388-3b991645352f.jpg)
 
 Determine la corriente en cada caso
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **1.5 RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
