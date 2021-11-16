@@ -106,6 +106,8 @@ corriente del resistor si el código de colores es amarillo, violeta, naranja, p
 
 23.Calcule el voltaje para cada valor de I y R:
 
+![r](https://user-images.githubusercontent.com/93835587/141901638-88ef1722-08ad-412c-95ee-66c7aeca764d.jpg)
+
 <img src="https://latex.codecogs.com/svg.image?\bigl(\begin{smallmatrix}a\end{smallmatrix}\bigr)V=&space;I\times&space;V\\~~~~~~~~~~V=2\times&space;18\\~~~~~~~~~~V=36v&space;" title="\bigl(\begin{smallmatrix}a\end{smallmatrix}\bigr)V= I\times V\\~~~~~~~~~~V=2\times 18\\~~~~~~~~~~V=36v " />
 
 <img src="https://latex.codecogs.com/svg.image?\bigl(\begin{smallmatrix}b\end{smallmatrix}\bigr)V=&space;I\times&space;V\\~~~~~~~~~~V=5\times&space;56\\~~~~~~~~~~V=280v&space;" title="\bigl(\begin{smallmatrix}b\end{smallmatrix}\bigr)V= I\times V\\~~~~~~~~~~V=5\times 56\\~~~~~~~~~~V=280v " />
