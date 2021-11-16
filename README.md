@@ -56,6 +56,9 @@ R2 y R3
 <img src="https://latex.codecogs.com/svg.image?R\left&space;(&space;2&space;\right&space;)=&space;\frac{V}{I}\\~~~~~R\left&space;(&space;2&space;\right&space;)=&space;\frac{6}{6}\\~~~~~R\left&space;(&space;2&space;\right&space;)=1.0\mho&space;" title="R\left ( 2 \right )= \frac{V}{I}\\~~~~~R\left ( 2 \right )= \frac{6}{6}\\~~~~~R\left ( 2 \right )=1.0\mho " />
 
 <img src="https://latex.codecogs.com/svg.image?R\left&space;(&space;3&space;\right&space;)=&space;\frac{V}{I}\\~~~~~R\left&space;(&space;3&space;\right&space;)=&space;\frac{6}{3}\\~~~~~R\left&space;(&space;3&space;\right&space;)=2\mho&space;" title="R\left ( 3 \right )= \frac{V}{I}\\~~~~~R\left ( 3 \right )= \frac{6}{3}\\~~~~~R\left ( 3 \right )=2\mho " />
+
+9. Trace la relación corriente-voltaje para un resistor de cinco bandas con código de colores café, verde,
+gris, café, rojo
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
