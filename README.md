@@ -101,7 +101,8 @@ corriente del resistor si el código de colores es amarillo, violeta, naranja, p
 21.Si el voltaje del problema 20 se duplica, ¿se fundirá un fusible de 0.5 A? Explique su respuesta.
 
 <img src="https://latex.codecogs.com/svg.image?R=&space;\frac{V}{I}\\~~~~~R=&space;\frac{24v}{0.5A&space;}\\~~~~~R=48~\mho&space;" title="R= \frac{V}{I}\\~~~~~R= \frac{24v}{0.5A }\\~~~~~R=48~\mho " />
-<img src="https://latex.codecogs.com/svg.image?I=&space;\frac{V}{R}\\~~~~~I=&space;\frac{24v}{48\mho&space;&space;}\\~~~~~I=0.6A&space;\\~~~~~Si~la~corriente~ahora~es~de~0.6A~lo~cual~excede&space;~la~capaci dad~del~fusible" title="I= \frac{V}{R}\\~~~~~I= \frac{24v}{48\mho }\\~~~~~I=0.6A \\~~~~~Si~la~corriente~ahora~es~de~0.6A~lo~cual~excede ~la~capaci dad~del~fusible" />
+
+<img src="https://latex.codecogs.com/svg.image?I=&space;\frac{V}{R}\\~~~~~I=&space;\frac{24v}{48\mho&space;&space;}\\~~~~~I=0.6A&space;\\~~~~~Si~la~corriente~ahora~es~de~0.6A~lo~cual~excede&space;~la~capacidad~del~fusible" title="I= \frac{V}{R}\\~~~~~I= \frac{24v}{48\mho }\\~~~~~I=0.6A \\~~~~~Si~la~corriente~ahora~es~de~0.6A~lo~cual~excede ~la~capacidad~del~fusible" />
 
 23.Calcule el voltaje para cada valor de I y R:
 
