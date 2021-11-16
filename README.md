@@ -80,6 +80,15 @@ nuevo valor?
 Determine la corriente en cada caso
 
 <img src="https://latex.codecogs.com/svg.image?\bigl(\begin{smallmatrix}a\end{smallmatrix}\bigr)~I=&space;\frac{V}{R}\\~~~~~~~~~~~I=&space;\frac{5v}{1.0\mho&space;}\\~~~~~~~~~~~I=5~A" title="\bigl(\begin{smallmatrix}a\end{smallmatrix}\bigr)~I= \frac{V}{R}\\~~~~~~~~~~~I= \frac{5v}{1.0\mho }\\~~~~~~~~~~~I=5~A" />
+
+<img src="https://latex.codecogs.com/svg.image?\bigl(\begin{smallmatrix}B\end{smallmatrix}\bigr)~I=&space;\frac{V}{R}\\~~~~~~~~~~~I=&space;\frac{15v}{10\mho&space;}\\~~~~~~~~~~~I=1.5~A" title="\bigl(\begin{smallmatrix}B\end{smallmatrix}\bigr)~I= \frac{V}{R}\\~~~~~~~~~~~I= \frac{15v}{10\mho }\\~~~~~~~~~~~I=1.5~A" />
+
+<img src="https://latex.codecogs.com/svg.image?\bigl(\begin{smallmatrix}c\end{smallmatrix}\bigr)~I=&space;\frac{V}{R}\\~~~~~~~~~~~I=&space;\frac{50v}{100\mho&space;}\\~~~~~~~~~~~I=500~mA" title="\bigl(\begin{smallmatrix}c\end{smallmatrix}\bigr)~I= \frac{V}{R}\\~~~~~~~~~~~I= \frac{50v}{100\mho }\\~~~~~~~~~~~I=500~mA" />
+
+<img src="https://latex.codecogs.com/svg.image?\bigl(\begin{smallmatrix}d\end{smallmatrix}\bigr)~I=&space;\frac{V}{R}\\~~~~~~~~~~~I=&space;\frac{30v}{15k\mho&space;}\\~~~~~~~~~~~I=2~mA" title="\bigl(\begin{smallmatrix}d\end{smallmatrix}\bigr)~I= \frac{V}{R}\\~~~~~~~~~~~I= \frac{30v}{15k\mho }\\~~~~~~~~~~~I=2~mA" />
+
+<img src="https://latex.codecogs.com/svg.image?\bigl(\begin{smallmatrix}e\end{smallmatrix}\bigr)~I=&space;\frac{V}{R}\\~~~~~~~~~~~I=&space;\frac{250v}{5.6M\mho&space;}\\~~~~~~~~~~~I=44.6~uA" title="\bigl(\begin{smallmatrix}e\end{smallmatrix}\bigr)~I= \frac{V}{R}\\~~~~~~~~~~~I= \frac{250v}{5.6M\mho }\\~~~~~~~~~~~I=44.6~uA" />
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **1.5 RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
