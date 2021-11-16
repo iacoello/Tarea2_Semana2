@@ -51,6 +51,8 @@ R2 y R3
 
 ![7](https://user-images.githubusercontent.com/93835587/141879123-6f56540b-a053-40ea-895f-935e07c855cc.jpg)
 
+<img src="https://latex.codecogs.com/svg.image?R\left&space;(&space;1&space;\right&space;)=&space;\frac{V}{I}\\~~~~~R\left&space;(&space;1&space;\right&space;)=&space;\frac{3}{6}\\~~~~~R\left&space;(&space;1&space;\right&space;)=0.5\mho&space;" title="R\left ( 1 \right )= \frac{V}{I}\\~~~~~R\left ( 1 \right )= \frac{3}{6}\\~~~~~R\left ( 1 \right )=0.5\mho " />
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
