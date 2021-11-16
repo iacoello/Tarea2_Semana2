@@ -91,6 +91,15 @@ Determine la corriente en cada caso
 
 <img src="https://latex.codecogs.com/svg.image?\bigl(\begin{smallmatrix}e\end{smallmatrix}\bigr)~I=&space;\frac{V}{R}\\~~~~~~~~~~~I=&space;\frac{250v}{5.6M\mho&space;}\\~~~~~~~~~~~I=44.6~uA" title="\bigl(\begin{smallmatrix}e\end{smallmatrix}\bigr)~I= \frac{V}{R}\\~~~~~~~~~~~I= \frac{250v}{5.6M\mho }\\~~~~~~~~~~~I=44.6~uA" />
 
+17. Se conecta un resistor de 10  a través de una batería de 12 V. ¿Cuál es la corriente a través del resistor?
+
+19. Se conecta un resistor de cuatro bandas a través de las terminales de una fuente de 25 V. Determine la
+corriente del resistor si el código de colores es amarillo, violeta, naranja, plata
+
+21. Si el voltaje del problema 20 se duplica, ¿se fundirá un fusible de 0.5 A? Explique su respuesta.
+
+23. Calcule el voltaje para cada valor de I y R:
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **1.5 RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
