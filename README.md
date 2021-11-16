@@ -119,10 +119,12 @@ corriente del resistor si el código de colores es amarillo, violeta, naranja, p
 <img src="https://latex.codecogs.com/svg.image?\bigl(\begin{smallmatrix}e\end{smallmatrix}\bigr)V=&space;I\times&space;V\\~~~~~~~~~~V=0.1\times&space;560\\~~~~~~~~~~V=56v&space;" title="\bigl(\begin{smallmatrix}e\end{smallmatrix}\bigr)V= I\times V\\~~~~~~~~~~V=0.1\times 560\\~~~~~~~~~~V=56v " />
 
 
-25.Se leen tres amperes de corriente a través de un resistor de 27  conectado a una fuente de voltaje.
+25.Se leen tres amperes de corriente a través de un resistor de 27  conectado a una fuente de voltaje.
 ¿Cuánto voltaje produce la fuente?
 
-27.Se conecta una fuente de 6 V a un resistor de 100  mediante dos tramos de alambre de cobre calibre
+<img src="https://latex.codecogs.com/svg.image?V=&space;I\times&space;V\\~~~~~V=9\times&space;27\\~~~~~~V=243\\~~~~~~V=&space;\frac{243}{3}\\~~~~~~V=81v" title="V= I\times V\\~~~~~V=9\times 27\\~~~~~~V=243\\~~~~~~V= \frac{243}{3}\\~~~~~~V=81v" />
+
+27.Se conecta una fuente de 6 V a un resistor de 100 mediante dos tramos de alambre de cobre calibre
 18 de 12 pies de largo. La resistencia total es la resistencia de los dos alambres sumada al resistor de
 100 . Determine lo siguiente
 
