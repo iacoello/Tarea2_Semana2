@@ -103,7 +103,7 @@ nuevo valor?
 19.Se conecta un resistor de cuatro bandas a través de las terminales de una fuente de 25 V. Determine la
 corriente del resistor si el código de colores es amarillo, violeta, naranja, plata
 
-<img src="https://latex.codecogs.com/svg.image?I\frac{V}{R}=&space;\\~~~~~I=\frac{25}{47000}\\~~~~~I=0.000532A\to&space;532uA" title="I\frac{V}{R}= \\~~~~~I=\frac{25}{47000}\\~~~~~I=0.000532A\to 532uA" />
+<img src="https://latex.codecogs.com/svg.image?I=&space;\frac{V}{R}&space;\\~~~~~I=\frac{25}{47000}\\~~~~~I=0.000532A\to&space;532uA" title="I= \frac{V}{R} \\~~~~~I=\frac{25}{47000}\\~~~~~I=0.000532A\to 532uA" />
 
 21.Si el voltaje del problema 20 se duplica, ¿se fundirá un fusible de 0.5 A? Explique su respuesta.
 
