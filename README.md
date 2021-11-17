@@ -142,11 +142,36 @@ corriente del resistor si el código de colores es amarillo, violeta, naranja, p
 
 29.Calcule la resistencia de un reóstato para cada juego de valores de V e I:
 
-(a)V = 10 V, I = 2 A
-(b)V = 90 V, I = 45 A
-(c)V = 50 V, I = 5 A
-(d)V = 5.5 V, I = 10 A
-(e)V = 150 V, I = 0.5 A
+(a)V = 10 kV, I = 5 A
+
+<img src="https://latex.codecogs.com/svg.image?R=V/I" title="R=V/I" />
+
+<img src="https://latex.codecogs.com/svg.image?R=10000/2=5000(OHM)" title="R=10000/2=5000(OHM)" />
+
+(b)V = 7 V, I = 2 mA
+
+<img src="https://latex.codecogs.com/svg.image?R=V/I" title="R=V/I" />
+
+<img src="https://latex.codecogs.com/svg.image?R=7/0.002=3500(OHM)" title="R=7/0.002=3500(OHM)" />
+
+(c)V = 500 V, I = 250 mA
+
+<img src="https://latex.codecogs.com/svg.image?R=V/I" title="R=V/I" />
+
+<img src="https://latex.codecogs.com/svg.image?R=500/0.25=2000(OHM)" title="R=500/0.25=2000(OHM)" />
+
+(d)V = 50 V, I = 500 mA
+
+<img src="https://latex.codecogs.com/svg.image?R=V/I" title="R=V/I" />
+
+<img src="https://latex.codecogs.com/svg.image?R=50/0.0005=100000(OHM)" title="R=50/0.0005=100000(OHM)" />
+
+(e)V = 1 kV, I = 1 mA 
+
+<img src="https://latex.codecogs.com/svg.image?R=V/I" title="R=V/I" />
+
+<img src="https://latex.codecogs.com/svg.image?R=1000/0.001=1000000(OHM)" title="R=1000/0.001=1000000(OHM)" />
+
 
 31.En el circuito de la figura 3-23(a), el filamento de una lámpara tiene cierta cantidad de resistencia, la
 cual está representada por una resistencia equivalente en la figura 3-23(b). Si la lámpara opera con
