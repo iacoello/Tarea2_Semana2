@@ -218,37 +218,44 @@ Lo que resulta en 16 lecturas de resistencia desde izquierda a derecha
 * <img src="https://latex.codecogs.com/svg.image?Potencia=Energia/tiempo" title="Potencia=Energia/tiempo" />
 * Podemos decir que la potencia se mide en julio (joule) dividido por segundo.
 * Como la potencia se expresa en watt (W), sustituimos la “ P ” que identifica la potencia por su equivalente, es decir, la “ W ” de watt, tenemos también que: P = W , por tanto,
-*<img src="https://latex.codecogs.com/svg.image?W=V*I" title="W=V*A" />
+*<img src="https://latex.codecogs.com/svg.image?W=V*I" title="W=V*I" />
 * Si observamos la fórmula    W = V • I veremos que el voltaje y la intensidad de la corriente que fluye por un circuito eléctrico son directamente proporcionales a la potencia; es decir, si uno de ellos aumenta o disminuye su valor, la potencia también aumenta o disminuye de forma proporcional.
-
-
 
 3.¿Cuál es la potencia cuando se consume energía a razón de 350 J/s?
 
+<img src="https://latex.codecogs.com/svg.image?Potencia=Energia/tiempo" title="Potencia=Energia/tiempo" />
+
+* W=350j/1 sec=350
+
 5.¿A cuántos watts equivalen 1000 J en 50 ms?
+
+* W=1000j/0.005sec= 200000
 
 7.Convierta las siguientes cantidades en megawatts:
 
-* 1000000W =
-* 33X10(6)W=
-* 15X10(7)W=
-* 8700KW=
+* 1000000 W= 1MW
+* 33X10(6) W= 33MW
+* 15X10(7) W= 150MW
+* 8700K W= 3.7MW
 
 9.Convierta las siguientes cantidades en microwatts:
 
-* 2W=
-* 0.0005W=
-* 0.25mW=
-* 0.0125W=
+* 2 W= 2x10(6)mW
+* 0.0005 W= 2x10(6)mW
+* 0.25m W= 500mW
+* 0.0125 W= 12500mW
 
 11. Un dispositivo electrónico en particular utiliza 100 mW de potencia. Si funciona durante 24 h, ¿cuántos
 joules de energía consume?
 
+<img src="https://latex.codecogs.com/svg.image?W=V*I" title="W=V*I" />
+
+0.0001/24=4.166
+
 13.Al final de un periodo de 31 días, su recibo de electricidad muestra que utilizó 1500 kWh. ¿Cuál fue su
 consumo de potencia diario promedio?
 
-
-
+1500kwhx1/744H=2.016wpH
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
