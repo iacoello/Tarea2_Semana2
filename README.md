@@ -36,6 +36,8 @@
 
 **1.4 EXPLICACIÓN DE PROCEDIMIENTO**
 
+//CAPITULO 3//
+
 1.En un circuito compuesto de una fuente de voltaje y un resistor, describa qué le sucede a la corriente
 cuando
 
@@ -137,6 +139,65 @@ corriente del resistor si el código de colores es amarillo, violeta, naranja, p
 27.Se conecta una fuente de 6 V a un resistor de 100 mediante dos tramos de alambre de cobre calibre
 18 de 12 pies de largo. La resistencia total es la resistencia de los dos alambres sumada al resistor de
 100 . Determine lo siguiente
+
+29.Calcule la resistencia de un reóstato para cada juego de valores de V e I:
+
+(a)V = 10 V, I = 2 A
+(b)V = 90 V, I = 45 A
+(c)V = 50 V, I = 5 A
+(d)V = 5.5 V, I = 10 A
+(e)V = 150 V, I = 0.5 A
+
+31.En el circuito de la figura 3-23(a), el filamento de una lámpara tiene cierta cantidad de resistencia, la
+cual está representada por una resistencia equivalente en la figura 3-23(b). Si la lámpara opera con
+120 V y 0.8 A de corriente, ¿cuál es la resistencia de su filamento cuando está encendida?
+
+![1](https://user-images.githubusercontent.com/93800511/142256449-cd9c68e0-f517-46ad-a78b-000c5105e3e4.png)
+
+33.Al variar el reóstato (resistor variable) en el circuito de la figura 3-24, puede cambiar la cantidad de corriente.
+El ajuste del reóstato es tal que la corriente es de 750 mA. ¿Cuál es el valor de resistencia de
+este ajuste? Para ajustar la corriente a 1 A, ¿a qué valor de resistencia debe ajustar el reóstato? ¿Cuál
+es el problema con el circuito?
+
+![2](https://user-images.githubusercontent.com/93800511/142256554-e7228d50-1e33-42c2-91ce-72105bca58b0.png)
+
+35.Repita el problema 34 con un circuito de 110 V y un fusible de 1 A.
+
+37.Suponga que tiene una serie de 32 luces y uno de los focos se fundió. Con el método de división a la
+mitad, y comenzando por la mitad izquierda del circuito, ¿cuántas lecturas de resistencia tomará localizar
+el foco fundido si es el décimo séptimo de izquierda a derecha?
+
+//CAPITULO 4//
+
+1.Demuestre que la unidad de potencia (el watt) equivale a un volt por un ampere.
+
+3.¿Cuál es la potencia cuando se consume energía a razón de 350 J/s?
+
+5.¿A cuántos watts equivalen 1000 J en 50 ms?
+
+7.Convierta las siguientes cantidades en megawatts:
+
+* 1000000W =
+* 33X10(6)W=
+* 15X10(7)W=
+* 8700KW=
+
+9.Convierta las siguientes cantidades en microwatts:
+
+* 2W=
+* 0.0005W=
+* 0.25mW=
+* 0.0125W=
+
+11. Un dispositivo electrónico en particular utiliza 100 mW de potencia. Si funciona durante 24 h, ¿cuántos
+joules de energía consume?
+
+13.Al final de un periodo de 31 días, su recibo de electricidad muestra que utilizó 1500 kWh. ¿Cuál fue su
+consumo de potencia diario promedio?
+
+
+
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
