@@ -179,6 +179,10 @@ cual está representada por una resistencia equivalente en la figura 3-23(b). Si
 
 ![1](https://user-images.githubusercontent.com/93800511/142256449-cd9c68e0-f517-46ad-a78b-000c5105e3e4.png)
 
+<img src="https://latex.codecogs.com/svg.image?R=V/I" title="R=V/I" />
+
+<img src="https://latex.codecogs.com/svg.image?R=120/0.8=150(OHM)" title="R=120/0.8=150(OHM)" />
+
 33.Al variar el reóstato (resistor variable) en el circuito de la figura 3-24, puede cambiar la cantidad de corriente.
 El ajuste del reóstato es tal que la corriente es de 750 mA. ¿Cuál es el valor de resistencia de
 este ajuste? Para ajustar la corriente a 1 A, ¿a qué valor de resistencia debe ajustar el reóstato? ¿Cuál
@@ -186,15 +190,38 @@ es el problema con el circuito?
 
 ![2](https://user-images.githubusercontent.com/93800511/142256554-e7228d50-1e33-42c2-91ce-72105bca58b0.png)
 
+<img src="https://latex.codecogs.com/svg.image?R=V/I" title="R=V/I" />
+
+<img src="https://latex.codecogs.com/svg.image?R=100/0.75=133.3(OHM)" title="R=100/0.75=133.3(OHM)" />
+
+<img src="https://latex.codecogs.com/svg.image?R=100/1=100(OHM)" title="R=100/1=100(OHM)" />
+
 35.Repita el problema 34 con un circuito de 110 V y un fusible de 1 A.
+
+<img src="https://latex.codecogs.com/svg.image?R=110/1=110(OHM)" title="R=110/1=110(OHM)" />
 
 37.Suponga que tiene una serie de 32 luces y uno de los focos se fundió. Con el método de división a la
 mitad, y comenzando por la mitad izquierda del circuito, ¿cuántas lecturas de resistencia tomará localizar
 el foco fundido si es el décimo séptimo de izquierda a derecha?
 
+La división a la mitad identifica la falla aislando sucesivamente al mitad del circuito restante.
+
+Lo que resulta en 16 lecturas de resistencia desde izquierda a derecha 
+
+32/2=16
+
 //CAPITULO 4//
 
 1.Demuestre que la unidad de potencia (el watt) equivale a un volt por un ampere.
+
+* Potencia es la velocidad a la que se consume la energía. Tal que:
+* <img src="https://latex.codecogs.com/svg.image?Potencia=Energia/tiempo" title="Potencia=Energia/tiempo" />
+* Podemos decir que la potencia se mide en julio (joule) dividido por segundo.
+* Como la potencia se expresa en watt (W), sustituimos la “ P ” que identifica la potencia por su equivalente, es decir, la “ W ” de watt, tenemos también que: P = W , por tanto,
+*<img src="https://latex.codecogs.com/svg.image?W=V*I" title="W=V*A" />
+* Si observamos la fórmula    W = V • I veremos que el voltaje y la intensidad de la corriente que fluye por un circuito eléctrico son directamente proporcionales a la potencia; es decir, si uno de ellos aumenta o disminuye su valor, la potencia también aumenta o disminuye de forma proporcional.
+
+
 
 3.¿Cuál es la potencia cuando se consume energía a razón de 350 J/s?
 
