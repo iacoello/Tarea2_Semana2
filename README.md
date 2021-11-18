@@ -274,6 +274,72 @@ consumo de potencia diario promedio?
 
 1500kwhx1/744H=2.016wpH
 
+15. Convierta 6700 watts-segundos en kWh.
+
+![ejer15](https://user-images.githubusercontent.com/93835533/142361041-b33173d3-0d44-4c0b-8902-525647cdd778.png)
+
+17. Si una fuente de 75 V está suministrando 2 A a una carga, ¿cuál es el valor de resistencia de la carga?
+
+![17 ejer](https://user-images.githubusercontent.com/93835533/142363836-cf6de955-f874-4766-b5ed-f67489eb9e3a.png)
+
+19. Un calentador eléctrico funciona con 120 V y absorbe 3 A de corriente. ¿Cuánta potencia utiliza?
+
+![19 ejer](https://user-images.githubusercontent.com/93835533/142363908-a5edb80e-8e56-4397-ae2a-d7711861d7da.png)
+
+21. Calcule la potencia disipada por un resistor de 10 kΩ que transporta 100 µA.
+
+![21ejr](https://user-images.githubusercontent.com/93835533/142363978-64c21e0f-5260-4ad3-8897-01555665c583.png)
+
+22. Si entre los extremos de un resistor de 680 Ω existen 60 V, ¿cuál es la potencia?
+
+![22 ejer](https://user-images.githubusercontent.com/93835533/142364018-682cdb56-8312-4718-9d40-0490f1aadccb.png)
+
+23. Se conecta un resistor de 56 Ω entre las terminales de una batería de 1.5 V. ¿Cuál es la disipación de potencia en el resistor?
+
+
+![23 ejr](https://user-images.githubusercontent.com/93835533/142364086-41dc3761-6ebc-40fe-bc02-56beb401d737.png)
+
+25. Una fuente de 12 V se conecta entre los extremos de un resistor de 10 Ω. 
+
+
+(a) ¿Cuánta energía se utiliza en dos minutos?
+
+![25 ejer](https://user-images.githubusercontent.com/93835533/142364133-ccf9d816-85ac-4262-ac87-ebe7655a059b.png)
+
+(b) Si después de un minuto se desconecta el resistor, ¿es la potencia durante este primer minuto mayor, menor o igual a la potencia que hay durante un intervalo de dos minutos?
+
+
+
+
+
+27. Cierto tipo de resistor viene en las siguientes clasificaciones: 3 W, 5 W, 8 W, 12 W, 20 W. Una aplicación en particular requiere de un resistor que pueda manejar aproximadamente 8 W. ¿Qué clasificación utilizaría usted para tener un margen de seguridad mínimo del 20% sobre el valor nominal? ¿Por qué?
+
+Para poseer un margen mínimo de seguridad del 20 % utilizaría la clasificación de 12 W, porque su potencial nominal debe ser como mínimo el siguiente valor estándar que sea mayor que la potencia máxima, es decir como el valor que le sigue a 8W es 12W entonces este sería el valor nominal.  
+
+29. Una carga de 50 Ω utiliza 1 W de potencia. ¿Cuál es el voltaje de salida de la fuente de potencia?
+
+![29 ejer](https://user-images.githubusercontent.com/93835533/142364300-6c7d3b8d-9ca1-44e8-bffd-dfddf5fc2b56.png)
+
+31. ¿Cuál es la energía total en joules que suministra la batería del problema 30 durante 90 horas? batería D alcalina que puede mantener un voltaje promedio de 1.25 V en una carga de 10 Ω antes de volverse inutilizable.
+
+
+![31 ejer](https://user-images.githubusercontent.com/93835533/142364362-b429dd22-db43-4a1c-95ad-3ad4b0bbb85d.png)
+
+33. ¿Cuánta corriente promedio puede ser absorbida de una batería de 80 Ah durante 10 h?
+
+
+![33 ejer](https://user-images.githubusercontent.com/93835533/142364403-e33edf52-dffb-414c-8634-00be3a62a34f.png)
+
+35. Si la potencia de entrada es de 500 mW y la de salida de 400 mW, ¿cuánta potencia se pierde? ¿Cuál es la eficiencia de esta fuente de potencia?
+
+
+![35ejer](https://user-images.githubusercontent.com/93835533/142364469-b9191300-6395-4ba6-b601-67a819dd7a31.png)
+
+37. Cierta fuente de potencia suministra 2 W de forma continua a una carga. Está operando al 60% de eficiencia. En un periodo de 24 h, ¿cuántos kilowatts-hora utiliza la fuente de potencia?
+
+ 
+
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **1.5 VIDEOS**
