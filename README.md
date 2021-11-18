@@ -18,16 +18,16 @@
 
 **1.1 OBJETIVO GENERAL**
 
-* Estudiar los conceptos relacionados a la ley de Ohm y el calculo de potencia eléctrica y su relevancia refernete al amabito de la electroníca fundamental apartir de las unidades de Voltaje, Corriente y Resistencia detereminando sus  relaciones ya sean inversa o directamente proporcionales las unas con las otras. 
+* Estudiar los conceptos relacionados a la ley de Ohm y el cálculo de potencia eléctrica y su relevancia referente al ámbito de la electroníca fundamental a partir de las unidades de Voltaje, Corriente y Resistencia detereminando sus  relaciones ya sean inversa o directamente proporcionales las unas con las otras. 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 **1.2 OBJETIVOS ESPECIFICOS**
 
-* Determinar los conceptos basicos referentes a la ley de Ohm por medio de la resolución de ejercicios aplicativos aplicando la formula propuesta para dicha ley.
+* Determinar los conceptos básicos referentes a la ley de Ohm por medio de la resolución de ejercicios aplicativos aplicando la formula propuesta para dicha ley.
 
-* Analizar las propiedades de la potencia eléctrica para los circuitos simples y su relacion con el flujo de la corriente y el comportamiento electrico por medio de ejercicios aplicativos de los conceptos estudiados.
+* Analizar las propiedades de la potencia eléctrica para los circuitos simples y su relacion con el flujo de la corriente y el comportamiento eléctrico por medio de ejercicios aplicativos de los conceptos estudiados.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -43,6 +43,10 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+
+![Blank diagram (6)](https://user-images.githubusercontent.com/93835533/142379768-769cf28e-91ad-49af-9430-c45ff1fb5913.png)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **1.4 EXPLICACIÓN DE PROCEDIMIENTO**
 
@@ -347,7 +351,7 @@ Para poseer un margen mínimo de seguridad del 20 % utilizaría la clasificació
 
 **1.6 .CONCLUCIONES**
 
-En conclución se pudo determinar las relacones entre las unidades electricas relacionadas a la ley de Ohm y aplicar sus propiedades en el cálculo de la potencia, se encontraron las proporcionalidades entre dichas unidades relacionando por medio de graficas y ejemplos prácticos por medio de circuitos sencillos teoricos e ideales comprobando las leyes antes descritas matematricamente.
+En conclución se pudo determinar las relaciones entre las unidades electricas enlazadas a la ley de Ohm y aplicar sus propiedades en el cálculo de la potencia, se encontraron las proporcionalidades entre dichas unidades relacionando por medio de gráficas y ejemplos prácticos por medio de circuitos sencillos teóricos e ideales comprobando las leyes antes descritas matemáticamente.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
