@@ -13,15 +13,21 @@
 * FUNDAMENTOS DE CIRCUITOS ELECTRICOS **NRC** : 10149
 
 **FECHA DE ENTREGA**
-* 16/11/2021
+* 18/11/2021
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **1.1 OBJETIVO GENERAL**
+
+* Estudiar los conceptos relacionados a la ley de Ohm y el calculo de potencia eléctrica y su relevancia refernete al amabito de la electroníca fundamental apartir de las unidades de Voltaje, Corriente y Resistencia detereminando sus  relaciones ya sean inversa o directamente proporcionales las unas con las otras. 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 **1.2 OBJETIVOS ESPECIFICOS**
+
+* Determinar los conceptos basicos referentes a la ley de Ohm por medio de la resolución de ejercicios aplicativos aplicando la formula propuesta para dicha ley.
+
+* Analizar las propiedades de la potencia eléctrica para los circuitos simples y su relacion con el flujo de la corriente y el comportamiento electrico por medio de ejercicios aplicativos de los conceptos estudiados.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -270,16 +276,18 @@ consumo de potencia diario promedio?
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
 **1.5 VIDEOS**
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
 **1.6 .CONCLUCIONES**
+
+En conclución se pudo determinar las relacones entre las unidades electricas relacionadas a la ley de Ohm y aplicar sus propiedades en el cálculo de la potencia, se encontraron las proporcionalidades entre dichas unidades relacionando por medio de graficas y ejemplos prácticos por medio de circuitos sencillos teoricos e ideales comprobando las leyes antes descritas matematricamente.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 **1.7.BIBLIOGRAFÍA**
+
+Floyd, Thomas.L. (s. f.). Floyd Octava Edición principios de circuitos electricos (8va edición, Vol. 1). Prentice Hall. https://latecnicalf.com.ar/descargas/material/electronicaanalogica/Dispositivos%20Electronicos%208va.edicion-%20Floyd.pdf
 
