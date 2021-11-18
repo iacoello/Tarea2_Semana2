@@ -144,6 +144,8 @@ corriente del resistor si el código de colores es amarillo, violeta, naranja, p
 
 <img src="https://latex.codecogs.com/svg.image?\bigl(\begin{smallmatrix}b\end{smallmatrix}\bigr)~Caida~de~voltaje~en~el~resistor\\~~~~~~VR=&space;100\times&space;0.059\\~~~~~~VR=5,99V" title="\bigl(\begin{smallmatrix}b\end{smallmatrix}\bigr)~Caida~de~voltaje~en~el~resistor\\~~~~~~VR= 100\times 0.059\\~~~~~~VR=5,99V" />
 
+<img src="https://latex.codecogs.com/svg.image?\bigl(\begin{smallmatrix}c\end{smallmatrix}\bigr)~Caida~de~voltaje~en~el~resistor\\~~~~~~VR=&space;0,077\times&space;0.059\\~~~~~~VR=4,54mV" title="\bigl(\begin{smallmatrix}c\end{smallmatrix}\bigr)~Caida~de~voltaje~en~el~resistor\\~~~~~~VR= 0,077\times 0.059\\~~~~~~VR=4,54mV" />
+
 29.Calcule la resistencia de un reóstato para cada juego de valores de V e I:
 
 (a)V = 10 kV, I = 5 A
