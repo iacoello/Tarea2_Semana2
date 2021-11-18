@@ -138,8 +138,8 @@ corriente del resistor si el código de colores es amarillo, violeta, naranja, p
 
 27.Se conecta una fuente de 6 V a un resistor de 100 mediante dos tramos de alambre de cobre calibre
 18 de 12 pies de largo. La resistencia total es la resistencia de los dos alambres sumada al resistor de
-100 . Determine lo siguiente
-
+100 . Determine lo siguiente
+<img src="https://latex.codecogs.com/svg.image?\bigl(\begin{smallmatrix}a\end{smallmatrix}\bigr)~Corriente\\~~~~~RA=&space;\frac{10,37\times&space;12ft}{1624\mho&space;}\\~~~~~RA=0,077\mho\\~~~~~RT=&space;2\times&space;0,077&plus;100\\~~~~~RT=100,15\mho&space;&space;\\~~~~~I=&space;\frac{6v}{100,15\mho&space;}\\~~~~~I=0.06A" title="\bigl(\begin{smallmatrix}a\end{smallmatrix}\bigr)~Corriente\\~~~~~RA= \frac{10,37\times 12ft}{1624\mho }\\~~~~~RA=0,077\mho\\~~~~~RT= 2\times 0,077+100\\~~~~~RT=100,15\mho \\~~~~~I= \frac{6v}{100,15\mho }\\~~~~~I=0.06A" />
 29.Calcule la resistencia de un reóstato para cada juego de valores de V e I:
 
 (a)V = 10 kV, I = 5 A
