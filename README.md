@@ -31,6 +31,8 @@
 
 ![Diagrama en blanco (1)](https://user-images.githubusercontent.com/93835587/141924958-389a77ec-cfe9-473b-916c-10f5ed2ee76a.jpeg)
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ![Diagrama en blanco](https://user-images.githubusercontent.com/93800511/142345573-74d00c6a-abc8-4c93-b3e6-06b635caa0bf.png)
 
 
