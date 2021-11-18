@@ -341,6 +341,7 @@ Para poseer un margen mínimo de seguridad del 20 % utilizaría la clasificació
 37. Cierta fuente de potencia suministra 2 W de forma continua a una carga. Está operando al 60% de eficiencia. En un periodo de 24 h, ¿cuántos kilowatts-hora utiliza la fuente de potencia?
 
  
+![37 ejer](https://user-images.githubusercontent.com/93835533/142422869-ee19df49-ce4e-4588-9425-916131d5e86c.png)
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
